@@ -1,9 +1,8 @@
 # [Jakub Szybinski](https://www.linkedin.com/in/jakubszybinski/)
 ## Data Science portfolio
 ### [Project 1: Factors impacting serious car accidents](https://ngszyba.github.io/ML-and-car-accidents/)
-***
-* I grouped serious accidents (>=3 casualities) according to the time of the day and day of the week to estimate possible trends.
-![](/Figures/heatmap.png)
+#### Dataset from UK car accidents in 2020 were ranked by accident severity and analyzed for the features (day time, speed limit, road type, etc.) that impact the severity. 
+![]( ML-and-car-accidents/Figures/heatmap.png)
 
 
    
