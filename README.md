@@ -2,7 +2,7 @@
 ## Data Science portfolio
 ### [Project 1: Factors impacting serious car accidents](https://ngszyba.github.io/ML-and-car-accidents/)
 #### Dataset of UK car accidents in 2020 was ranked by accident severity and analyzed for the features (day time, speed limit, road type, etc.) that impact the severity. 
-![](/heatmap.png)
+![](/Heatmap_days.png)
 
 
    
