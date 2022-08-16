@@ -2,7 +2,7 @@
 ## Data Science portfolio
 ### [Project 1: Customers spending score](https://github.com/ngszyba/Customers-spending-score)
 #### With help of Kmeans clustering the shopping mall customers are assigned to different groups and the high-spenders can then be distinguished by Machine Learning algorithm. 
-
+![](/Clusters.png)
 
 ### [Project 2: Factors impacting serious car accidents](https://ngszyba.github.io/ML-and-car-accidents/)
 #### Dataset of UK car accidents in 2020 was ranked by accident severity and analyzed for the features (day time, speed limit, road type, etc.) that impact the severity. 
